@@ -1,4 +1,4 @@
-#include<iostream.h> //heheszki bla bla bla bla
+#include<iostream.h> //heheszki bla bla bla bla muzyka gra
 #include<stdlib.h>
 main()
 {

@@ -3,4 +3,9 @@ Test!#include <stdio.h>
 =======
 Test!
 nie
+<<<<<<< HEAD
 >>>>>>> fdb44f00bffe692ed68638bf70f7315ee5d8486dkjasdjkaskjdaskjdaskdasdasmdas,m.asd,m.
+=======
+mklxknvlxfknx;knfb;xkfb
+>>>>>>> 4316c26191929397dcda2350ef6548339a8d54a5
+OLA OLA OLA OLA OLA
