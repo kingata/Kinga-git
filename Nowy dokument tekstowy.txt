@@ -1,0 +1,41 @@
+#include<iostream.h>
+#include<stdlib.h>
+main()
+{
+
+const size=20;
+
+int tab[size];
+
+randomize;
+
+for (int i=0;i<size;i++)
+	  {tab[i]=random(200);
+	  }
+
+for (i=0;i<size;i++)
+	  {cout<<tab[i]<<" ";
+	  }
+
+int pom;
+
+for (i=size;i>0;i--)
+	  {
+	  for (int j=1;j>i;j++)
+		 {
+		  if (tab[j-1]<tab[j])
+			 {
+			  pom=tab[j-1];
+			  tab[j-1]=tab[j];
+			  tab[j]=pom;
+			 }
+		 }
+	  }
+
+cout<<endl;
+cout<<endl;
+
+for (i=0;i<size;i++)
+	  {cout<<tab[i]<<" ";
+	  }
+}
