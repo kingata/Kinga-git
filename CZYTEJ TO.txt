@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Test!#include <stdio.h>
+=======
+Test!
+nie
+>>>>>>> fdb44f00bffe692ed68638bf70f7315ee5d8486dkjasdjkaskjdaskjdaskdasdasmdas,m.asd,m.
